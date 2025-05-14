@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Act1Sem18/1.0.0": {
+        "runtime": {
+          "Act1Sem18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act1Sem18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

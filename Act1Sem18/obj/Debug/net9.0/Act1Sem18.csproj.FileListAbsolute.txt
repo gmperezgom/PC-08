@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\bin\Debug\net9.0\Act1Sem18.exe
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\bin\Debug\net9.0\Act1Sem18.deps.json
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\bin\Debug\net9.0\Act1Sem18.runtimeconfig.json
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\bin\Debug\net9.0\Act1Sem18.dll
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\bin\Debug\net9.0\Act1Sem18.pdb
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.AssemblyInfo.cs
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.dll
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\refint\Act1Sem18.dll
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.pdb
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\Act1Sem18.genruntimeconfig.cache
+C:\Users\HP\Desktop\Actividad1-Semana18\Act1Sem18\obj\Debug\net9.0\ref\Act1Sem18.dll
