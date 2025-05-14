@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\semana15\semana15\bin\Debug\net9.0\semana15.exe
+C:\Users\HP\Desktop\semana15\semana15\bin\Debug\net9.0\semana15.deps.json
+C:\Users\HP\Desktop\semana15\semana15\bin\Debug\net9.0\semana15.runtimeconfig.json
+C:\Users\HP\Desktop\semana15\semana15\bin\Debug\net9.0\semana15.dll
+C:\Users\HP\Desktop\semana15\semana15\bin\Debug\net9.0\semana15.pdb
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.AssemblyInfo.cs
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.dll
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\refint\semana15.dll
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.pdb
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\semana15.genruntimeconfig.cache
+C:\Users\HP\Desktop\semana15\semana15\obj\Debug\net9.0\ref\semana15.dll
